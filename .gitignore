@@ -25,3 +25,9 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Android Studio / IntelliJ IDEA settings
+.idea/
+
+# macOS Finder metadata
+.DS_Store
